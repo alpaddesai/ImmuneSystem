@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImmuneSystem", "ImmuneSystem\ImmuneSystem.csproj", "{E7552BE6-0D6A-441F-8D55-98C0EC0F0CED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7552BE6-0D6A-441F-8D55-98C0EC0F0CED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7552BE6-0D6A-441F-8D55-98C0EC0F0CED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7552BE6-0D6A-441F-8D55-98C0EC0F0CED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7552BE6-0D6A-441F-8D55-98C0EC0F0CED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33553792-E366-4CFB-A09F-13FE9A562711}
+	EndGlobalSection
+EndGlobal
